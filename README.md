@@ -12,6 +12,3 @@ To use z-wave on rpi3, disable bluetooth by adding this line in /boot/config.txt
 `dtoverlay=pi3-disable-bt`
 
 To improve the available current over USB, in /boot/config.txt: `max_usb_current=1`
-
-
-
